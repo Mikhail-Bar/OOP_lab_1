@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="painting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Task_4/painting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
